@@ -22,6 +22,16 @@
 
 ## Installatie
 
+Volg onderstaande stappen om zelf aan deze code te werken:
+
+Installeer NodeJs;
+Fork/clone deze repository;
+Open het in een code editor;
+Ga naar de directory 'my-app' door in de terminal cd my-app te typen;
+Run de command npm install;
+Run de command npm run dev;
+Klik op de localhost link en begin met coden.
+
 ## Gebruik
 
 ## Bronnen
