@@ -26,7 +26,7 @@ Deze squadpage laat alle squadmembers zien in een overzichtelijke pagina. Het do
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
-Voor deze squadpage is er gebruik gemaakt van het framework Sveltekit en wordt de data opgehaald uit Directus.
+Voor deze squadpage is er gebruik gemaakt van het framework Sveltekit en wordt de data opgehaald uit Directus. Omdat dit een groepsopdracht was staat de code op een andere repo, we hebben hiervoor de [repo van Zoë](https://github.com/zoepje/your-tribe-for-life-squad-page)
 
 De HTML is opgedeeld in sections met daarin headers, en een ul voor de lijst met namen. In de squadpage kan er via een toggle een light/dark-mode worden beheerd door de gebruiker. Met CSS keyframes zijn er een aantal kleine animaties. Er is mobile first gecodeerd, het kleinste scherm is 300px.
 
@@ -51,6 +51,7 @@ Op dit visitekaartje kan je lezen wie ik ben en waar ik vandaan kom, en kan je k
 
 ## Bronnen
 
+* https://github.com/zoepje/your-tribe-for-life-squad-page
 * https://kit.svelte.dev
 * https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started
 * https://docs.directus.io/blog/getting-started-directus-sveltekit.html
